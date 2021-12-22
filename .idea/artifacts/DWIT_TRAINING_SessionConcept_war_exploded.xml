@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DWIT_TRAINING_SessionConcept:war exploded">
+    <output-path>$PROJECT_DIR$/../DWIT_TRAINING_SessionConcept/out/artifacts/DWIT_TRAINING_SessionConcept_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DWIT_TRAINING_SessionConcept/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DWIT_TRAINING_SessionConcept" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
